@@ -1,0 +1,18 @@
+
+.bienvenidos {
+    width: 100%;
+    padding-right: 10px;
+    box-sizing: border-box;
+    
+}
+
+
+.cards {
+    background-color: rgb(245, 245, 245);
+    padding: 20px;
+    text-align: center;
+    justify-content: space-between;
+}
+
+
+
